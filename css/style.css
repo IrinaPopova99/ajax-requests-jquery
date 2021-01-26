@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+img {
+    margin-top: 60px;
+    width: 50%;
+    height: 50%;
+}
